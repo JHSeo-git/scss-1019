@@ -4,7 +4,7 @@
 
 Practice to nomadcoder clone project
 
-- demo : 
+- demo : https://jhseo-git.github.io/scss-1019/
 - target site : [http://10x19.co/](http://10x19.co/)
 
 ## To Clone:
